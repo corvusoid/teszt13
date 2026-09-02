@@ -1,0 +1,5 @@
+Név: Jani
+Szül: 1999.01.13
+Szül hely: Budapest
+Anyja neve: Magdi
+Neme: igen
